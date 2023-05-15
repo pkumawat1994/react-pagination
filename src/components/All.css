@@ -1,0 +1,37 @@
+.pagination__link--active {
+  background-color: rgb(129, 187, 74);
+  color: black;
+  height: 40px;
+  border-radius: 15px;
+  padding-top: 4px;
+  padding-left: 32px;
+  line-height: 31px;
+  width: 69px;
+}
+
+.pagination__link {
+  margin-left: 20px;
+  text-decoration: none;
+}
+.pagination__link {
+  background-color: rgb(255 173 173);
+  color: black;
+  height: 69px;
+  border-radius: 20px;
+  padding: 10px;
+  line-height: 40px;
+}
+li {
+  margin-left: 45px;
+  align-self: center;
+}
+.pagination {
+  padding-left: 133px;
+}
+
+.pagination__link--disabled {
+  color: rgb(247, 242, 242);
+  height: 40px;
+  padding-left: 30px;
+  line-height: 31px;
+}
